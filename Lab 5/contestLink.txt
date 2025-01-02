@@ -1,0 +1,2 @@
+https://vjudge.net/contest/611842
+pass:game
